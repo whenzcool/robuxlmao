@@ -1,3 +1,3 @@
 function troll() {
-    open("https://www.youtube.com/watch?v=dQw4w9WgXcQ");
+    open("http://gestyy.com/erlnQ0");
 }
